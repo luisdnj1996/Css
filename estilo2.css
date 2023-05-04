@@ -1,0 +1,115 @@
+body {
+    background: linear-gradient(
+    to bottom,
+    rgb(238, 195, 241),
+    rgb(255, 245, 200)
+    );
+    }
+    
+    h1 {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(171, 255, 255);
+    margin: 50px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    ul {
+    list-style: none;
+    margin: 50px;
+    padding: 10px;
+    border: 2px solid rgb(255, 204, 229);
+    }
+    
+    li {
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+    background-color: rgb(105, 224, 224);
+    font-style: italic;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    li a {
+    text-decoration: none;
+    color: rgb(25, 25, 112);
+    }
+    
+    h2 {
+    font-size: 36px;
+    font-style: italic;
+    color: rgb(255, 102, 102);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+    }
+    
+    p {
+    font-style: oblique;
+    font-size: 18px;
+    text-align: justify;
+    color: rgb(102, 0, 102);
+    }
+    
+    h3 {
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+    background-color: rgb(105, 224, 224);
+    font-style: unset;
+    margin-bottom: 10px;
+    }
+    
+    
+    body {
+    background: linear-gradient(
+    to bottom,
+    rgb(255, 204, 255),
+    rgb(255, 255, 204));
+
+    }
+    
+    h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(255, 153, 0);
+    margin: 50px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    ul {
+    list-style: none;
+    margin: 50px;
+    padding: 10px;
+    border: 2px solid rgb(255, 204, 229);
+    }
+    
+    li {
+    border-radius: 20px;
+    margin: 15px;
+    text-align: center;
+    background-color: rgb(153, 255, 153);
+    font-style: unset;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    }
+    
+    li a {
+    text-decoration: none;
+    color: rgb(255, 102, 0);
+    }
+    
+    h2 {
+    font-size: 48px;
+    font-style: italic;
+    color: rgb(0, 102, 102);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+    }
+    
+    p {
+    font-style: normal;
+    font-size: 16px;
+    text-align: justify;
+    color: rgb(102, 0, 0);
+    }
